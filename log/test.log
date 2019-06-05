@@ -727,3 +727,4 @@ Processing by ArticlesController#show as HTML
   Rendering articles/show.html.erb within layouts/application
   Rendered articles/show.html.erb within layouts/application (0.5ms)
 Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.1ms)
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
